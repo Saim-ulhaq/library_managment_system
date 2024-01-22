@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication4", "WindowsFormsApplication4\WindowsFormsApplication4.csproj", "{7EB6E345-CC95-446E-B661-4865C7AA80BD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Libaray management Setup", "Libaray management Setup\Libaray management Setup.vdproj", "{CF5E7C49-B583-443F-9975-3E5732145FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB6E345-CC95-446E-B661-4865C7AA80BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB6E345-CC95-446E-B661-4865C7AA80BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB6E345-CC95-446E-B661-4865C7AA80BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB6E345-CC95-446E-B661-4865C7AA80BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5E7C49-B583-443F-9975-3E5732145FD8}.Debug|Any CPU.ActiveCfg = Debug
+		{CF5E7C49-B583-443F-9975-3E5732145FD8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
